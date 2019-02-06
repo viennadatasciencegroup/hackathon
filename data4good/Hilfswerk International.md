@@ -1,4 +1,4 @@
-Hilfswerk International
+Hilfswerk International project description
 
 As a charitable organization Hilfswerk International has been implementing emergency relief projects, humanitarian aid and sustainable development projects in third world countries around the world. One example is the construction of women shelters and birth houses in Mozambique to reduce maternal and child mortality.
 
