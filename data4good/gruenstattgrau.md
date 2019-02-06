@@ -1,4 +1,4 @@
-Gruenstattgrau
+Gruenstattgrau project description
 
 The non-profit portal gruenstattgrau is a knowledge management platform focused on urban greening. With the consideration for climate change, water management and air pollution the competency center aims to promote the development of green rooftops, facades and urban farming. 
 
